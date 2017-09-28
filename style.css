@@ -1,0 +1,35 @@
+body {
+  padding: 0 0 0 10px;
+}
+body .topheader {
+  width: 100px;
+  height: auto;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+body .locations {
+  background-color: #409fd6;
+}
+body .fittingtoside {
+  display: flex;
+  flex-direction: column;
+}
+body .fittingtoside .locationimg {
+  width: 100%;
+  height: auto;
+}
+body .locationimg {
+  width: 100%;
+  height: auto;
+}
+body .rentalslink {
+  font-size: 40px;
+  display: flex;
+  justify-content: center;
+  background-color: #dadfea;
+}
+body .sesonsimg {
+  display: flex;
+  justify-content: center;
+}
