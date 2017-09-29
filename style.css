@@ -54,7 +54,7 @@ body .sidepannels {
   flex: 1;
   background: yellow;
   padding: 5px;
-  margin: 1%;
+  margin: 2%;
   flex-direction: row;
   align-content: stretch;
 }
