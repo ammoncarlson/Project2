@@ -1,5 +1,5 @@
 body {
-  padding: 0 0 0 10px;
+  padding: 0 10px 0 10px;
 }
 body .topheader {
   width: 100px;
@@ -30,6 +30,31 @@ body .rentalslink {
   background-color: #dadfea;
 }
 body .sesonsimg {
+  width: 100%;
+  position: relative;
   display: flex;
   justify-content: center;
+}
+body h2 {
+  background: rgba(0, 0, 0, 0.62);
+  position: absolute;
+  top: 200px;
+  left: 0;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  color: white;
+}
+body h3 {
+  display: flex;
+  justify-content: center;
+}
+body .sidepannels {
+  display: flex;
+  flex: 1;
+  background: yellow;
+  padding: 5px;
+  margin: 1%;
+  flex-direction: row;
+  align-content: stretch;
 }
