@@ -1,5 +1,5 @@
 body {
-  padding: 0 10px 0 10px;
+  padding: 0 200px;
 }
 body .topheader {
   width: 100px;
@@ -7,6 +7,9 @@ body .topheader {
   display: flex;
   align-items: center;
   justify-content: space-between;
+}
+body .smaller {
+  padding: 0 200px;
 }
 body .locations {
   background-color: #409fd6;
