@@ -61,3 +61,11 @@ body .sidepannels {
   flex-direction: row;
   align-content: stretch;
 }
+body .footer {
+  background-color: #dadfea;
+  display: flex;
+  justify-content: center;
+}
+body .footer a {
+  margin: 20px;
+}
