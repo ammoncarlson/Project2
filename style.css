@@ -62,10 +62,11 @@ body .sidepannels {
   align-content: stretch;
 }
 body .footer {
-  background-color: #dadfea;
+  padding: 10px 0;
+  background-color: darkgray;
   display: flex;
   justify-content: center;
 }
 body .footer a {
-  margin: 20px;
+  margin: 5px 20px;
 }
