@@ -8,6 +8,9 @@ body .topheader {
   align-items: center;
   justify-content: space-between;
 }
+body .carousel {
+  padding: 0 200px;
+}
 body .smaller {
   padding: 0 200px;
 }
