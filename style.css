@@ -73,3 +73,7 @@ body .footer {
 body .footer a {
   margin: 5px 20px;
 }
+body .footer span {
+  color: white;
+  font-size: 90px;
+}
