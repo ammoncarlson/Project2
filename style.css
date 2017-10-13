@@ -11,6 +11,19 @@ body .topheader {
 body .carousel {
   padding: 0 200px;
 }
+body .carousel p {
+  font-size: 80px;
+  color: black;
+}
+body .carousel h4 {
+  background: rgba(0, 0, 0, 0.62);
+}
+body .carousel #sideLeft {
+  padding: 0 250px;
+}
+body .carousel #sideRight {
+  padding: 0 250px;
+}
 body .smaller {
   padding: 0 200px;
 }
@@ -64,16 +77,20 @@ body .sidepannels {
   flex-direction: row;
   align-content: stretch;
 }
+body .media {
+  padding: 0 0 20px 0;
+}
 body .footer {
-  padding: 10px 0;
+  padding: 10px 0 5px 0;
   background-color: darkgray;
   display: flex;
   justify-content: center;
 }
 body .footer a {
-  margin: 5px 20px;
+  margin: 5px 7%;
 }
-body .footer span {
-  color: white;
-  font-size: 90px;
+body .contact {
+  background-color: white;
+  display: flex;
+  justify-content: center;
 }
