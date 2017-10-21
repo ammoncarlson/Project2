@@ -77,9 +77,6 @@ body .sidepannels {
   flex-direction: row;
   align-content: stretch;
 }
-body .media {
-  padding: 0 0 20px 0;
-}
 body .footer {
   padding: 10px 0 5px 0;
   background-color: darkgray;
